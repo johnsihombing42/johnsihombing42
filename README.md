@@ -2,6 +2,8 @@
 
 ### I Am John Tri Putra Sihombing
 
+- A self-motivated and curious student. Currently having an interest in Software Engineering fields, especially in Backend Engineering. Love to learn something new about technology.
+
 - 🔭 I’m student at Universitas Sumatera Utara
 - 🌱 I’m currently learning backend web development
 
