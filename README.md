@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <a href="https://code.visualstudio.com" title="Visual Studio Code">
     <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="Visual Studio Code" height="40" width="40"> 
   </a>
-/a>
+
 
 </div>
 
