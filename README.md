@@ -40,6 +40,9 @@ Here are some ideas to get you started:
    <a href="https://www.mysql.com" title="MySQL">
     <img src="https://api.iconify.design/logos/mysql.svg" alt="MySQL" height="40" width="40"> 
   </a>
+   <a href="https://www.mongodb.com/" title="MongoDBL">
+    <img src="https://api.iconify.design/logos/mongodb.svg" alt="Mongodb" height="40" width="40"> 
+  </a>
     <a href="https://www.w3schools.com/" title="Laravel">
     <img src="https://api.iconify.design/logos/laravel.svg" alt="HTML" height="40" width="40"> 
  </a>
