@@ -73,12 +73,12 @@ Here are some ideas to get you started:
 
 <h2>⚙️ GitHub Statistics</h2>
 
-<details>
+<!-- <details>
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
   <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=johnsihombing42&custom_title=John%20Sihombing%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=011627&color=a77DCB&hide_border=true&line=a77DCB&point=7fdbca&area=true&area_color=045599" alt="johnsihombing42 Trips' Activity Graph" />
 </details>
-
+ -->
 
   <summary>🎛️ GitHub Profile Stats</summary>
   <br/>
@@ -88,11 +88,11 @@ Here are some ideas to get you started:
   <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsihombing42&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
 
 
-<details>
+
   <summary>🏆 GitHub Trophy</summary>
   <br/>
   <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=johnsihombing42&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
-</details>
+
 
 <br/>
 
