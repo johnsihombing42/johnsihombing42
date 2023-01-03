@@ -79,15 +79,14 @@ Here are some ideas to get you started:
   <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=johnsihombing42&custom_title=John%20Sihombing%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=011627&color=a77DCB&hide_border=true&line=a77DCB&point=7fdbca&area=true&area_color=045599" alt="johnsihombing42 Trips' Activity Graph" />
 </details>
 
-<details>
+
   <summary>🎛️ GitHub Profile Stats</summary>
   <br/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=johnsihombing42&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=johnsihombing42&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsihombing42&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-  <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=johnsihombing42&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
-</details>
+
 
 <details>
   <summary>🏆 GitHub Trophy</summary>
