@@ -31,8 +31,8 @@ Here are some ideas to get you started:
    <a href="https://www.w3schools.com/" title="Node Js">
     <img src="https://api.iconify.design/vscode-icons/file-type-node.svg" alt="HTML" height="40" width="40"> 
  </a>
-   <a href="https://www.javascript.com" title="JavaScript">
-    <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="40" width="40"> 
+   <a href="https://expressjs.com/" title="Express JS">
+    <img src="https://api.iconify.design/logos/express.svg" alt="JavaScript" height="40" width="40"> 
   </a>
     <a href="https://www.w3schools.com/" title="Postgre Sql">
     <img src="https://api.iconify.design/logos/postgresql.svg" alt="HTML" height="40" width="40"> 
@@ -48,6 +48,12 @@ Here are some ideas to get you started:
  </a>
   <a href="https://www.php.net" title="PHP">
     <img src="https://api.iconify.design/logos/php.svg" alt="PHP" height="40" width="40"> 
+  </a>
+       <a href="https://www.javascript.com" title="JavaScript">
+    <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="40" width="40"> 
+  </a>
+       <a href="https://cplusplus.com/" title="C++">
+    <img src="https://api.iconify.design/logos/c-plusplus.svg" alt="JavaScript" height="40" width="40"> 
   </a>
   <a href="https://git-scm.com" title="Git">
     <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40"> 
