@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=johnsihombing42&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsihombing42&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-     <img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=johnsihombing42&custom_title=John%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GitHub Activity" />
+     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=johnsihombing42&custom_title=John%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GitHub Activity" />
   <br/>
    
 
