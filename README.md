@@ -68,9 +68,13 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com" title="Bootstrap">
     <img src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap" height="40" width="40"> 
   </a>
-  <a href="https://code.visualstudio.com" title="Visual Studio Code">
+  <a href="https://code.visualstudio.com" title="GitHub">
     <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="Visual Studio Code" height="40" width="40"> 
   </a>
+     <a href="https://code.visualstudio.com" title="Visual Studio Code">
+    <img src="https://api.iconify.design/mdi/github.svg" alt="GitHub" height="40" width="40"> 
+  </a>
+
 
 
 </div>
